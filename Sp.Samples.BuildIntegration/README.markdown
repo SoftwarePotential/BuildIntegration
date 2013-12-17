@@ -1,9 +1,3 @@
-# Obfuscator Integration Sample Application
-
-BuildIntegration - a sample application to demonstrate various aspects of build process integration using MSBuild
-
-**See the wiki for more information: [BuildIntegration](https://github.com/SoftwarePotential/samples/wiki/BuildIntegration)**
-
 ## Prerequisites
 
 An installed CodeProtector with an installed permutation. The samples must have been configured to use your permutation (see [Linking the sample to your permutation](https://github.com/SoftwarePotential/samples#1-linking-the-sample-to-your-permutation))
