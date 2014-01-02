@@ -6,7 +6,5 @@ obj
 *.user
 *.cache
 _Teamcity.*
-Sp.Samples.Agent.WpfApplicationWithInstaller/Sp.Samples.Agent.WpfApplication/SpAgent.Permutation.cs
-Sp.Samples.Agent.WpfApplicationWithInstaller/Sp.Samples.Agent.WpfApplication/SpAgent.props
 NuGet.exe
 packages
